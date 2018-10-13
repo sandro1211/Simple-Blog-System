@@ -1,1 +1,1 @@
-# Simple-Blog-System
+# Simple Blog System written in PHP(OOP)
